@@ -7,11 +7,11 @@ How to Troubleshoot Tracki GPS Map Update Issues?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://trackigpsupdate.readthedocs.io/en/latest/_images/update.png
+.. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
    :alt: My Project Logo
    :width: 500px
    :align: center
-   :target: https://navisolve.com/
+   :target: https://getchatsupport.live/
 ____________
 
 The Tracki GPS tracking system has become a trusted solution for personal safety, asset tracking, and fleet management. Its real-time location capabilities rely heavily on accurate and up-to-date maps. However, like any technology, users sometimes encounter Tracki GPS map update issues that can affect tracking accuracy and performance. If you’re facing problems with your Tracki device not displaying the latest map data or showing incorrect locations, this guide will help you troubleshoot and resolve common issues quickly.
