@@ -7,7 +7,7 @@ How to Troubleshoot Tracki GPS Map Update Issues?
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: https://trackigpsnotworking.readthedocs.io/en/latest/_images/support1.png
+.. image:: support1.png
    :alt: My Project Logo
    :width: 500px
    :align: center
